@@ -1,0 +1,14 @@
+contextily==1.2.0
+fsspec==2022.3.0
+matplotlib==3.5.2
+numpy==1.22.4
+pandas==1.4.2
+planetary_computer==0.4.6
+pystac==1.2.0
+pystac_client==0.3.2
+rasterio==1.2.10
+requests==2.27.1
+scikit_learn==1.1.1
+Shapely==1.8.2
+stackstac==0.4.2
+xarray==0.20.1
